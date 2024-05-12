@@ -1,3 +1,6 @@
 [submodule "booking-golang"]
 	path = booking-golang
 	url = https://github.com/davidhalasz/booking-golang.git
+[submodule "math-golang"]
+	path = math-golang
+	url = https://github.com/davidhalasz/math-golang.git
