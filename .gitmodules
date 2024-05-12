@@ -1,0 +1,3 @@
+[submodule "booking-golang"]
+	path = booking-golang
+	url = https://github.com/davidhalasz/booking-golang.git
